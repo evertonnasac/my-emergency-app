@@ -1,0 +1,1 @@
+export const pathology = ["Cardiopatias", "Câncer", "Cirugias", "Diabetes", "Hipertenção"]
